@@ -37,5 +37,6 @@ Vamos trocar uma ideia! Me encontre nas redes abaixo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/nathanaelsouls/ )
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/nathanael-santana-9366a3174/ )
+[![Twitch](https://www.twitch.tv/nathanaelsouls)]
 <!-- Se tiver Twitch, Twitter ou outra rede, pode adicionar aqui! -->
 
