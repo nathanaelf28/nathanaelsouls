@@ -11,7 +11,7 @@ Sou um **desenvolvedor Full-Stack**, com um carinho especial pelo **Back-end**, 
 Atualmente, estou focado em aprimorar minhas habilidades e construir soluções elegantes com **C#** e **TypeScript**.
 
 <div align="center">
-  <a href="https://github.com/nathanaelsouls">
+  <a href="https://github.com/nathanaelf28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanaelsouls&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelsouls&layout=compact&langs_count=7&theme=radical"/>
 </div>
